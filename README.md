@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Arthuuroo/Arthuuroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou Arthur Barbosa 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Sistemas de Informação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Atualmente estou aprendendo programação e desenvolvimento de software.
+
+### 🚀 Tecnologias em aprendizado
+
+- C
+- Python
+- JavaScript
+- HTML e CSS
+
+### 📚 Sobre mim
+
+Sou estudante de Sistemas de Informação e estou em constante aprendizado na área de tecnologia. Meu objetivo é desenvolver minhas habilidades em programação, criar projetos e evoluir como desenvolvedor.
+
+### 📂 Meus estudos
+
+Aqui compartilho atividades, exercícios e projetos desenvolvidos durante minha jornada de aprendizado.
+
+---
+
+⭐ Obrigado por visitar meu perfil!
